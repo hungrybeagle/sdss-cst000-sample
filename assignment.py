@@ -1,4 +1,4 @@
 #! python3
 
 # SD Computing Studies Assignment
-# this program will display "hellow world"
+# this program will display "hello world"
