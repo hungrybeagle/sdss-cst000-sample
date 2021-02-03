@@ -16,6 +16,6 @@ Normally, the number of tasks you need to accomplish will be displayed here
 
 ##### Task 1
 Each task will be displayed here along with the number of points.
-Openp up the file called test.py.  Have the program print the words "hello world"
+Openp up the file called assignment.py.  Have the program print the words "hello world"
 (2 points)
 
